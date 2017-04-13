@@ -1,0 +1,6 @@
+c:\users\tssca\onedrive\documents\visual studio 2015\Projects\LabFiveB\LabFiveB\bin\Debug\LabFiveB.exe.config
+c:\users\tssca\onedrive\documents\visual studio 2015\Projects\LabFiveB\LabFiveB\bin\Debug\LabFiveB.exe
+c:\users\tssca\onedrive\documents\visual studio 2015\Projects\LabFiveB\LabFiveB\bin\Debug\LabFiveB.pdb
+c:\users\tssca\onedrive\documents\visual studio 2015\Projects\LabFiveB\LabFiveB\obj\Debug\LabFiveB.csprojResolveAssemblyReference.cache
+c:\users\tssca\onedrive\documents\visual studio 2015\Projects\LabFiveB\LabFiveB\obj\Debug\LabFiveB.exe
+c:\users\tssca\onedrive\documents\visual studio 2015\Projects\LabFiveB\LabFiveB\obj\Debug\LabFiveB.pdb
